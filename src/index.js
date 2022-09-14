@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-
+// commit desde code sandbox
 import App from "./App";
 
 const notes = [
